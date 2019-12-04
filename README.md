@@ -8,7 +8,7 @@ In this project, we analyzed the best places to live in the US based on numerous
 
 The data is presented visually and tabularly. The tabular data shows the raw ranking data from Wallethub as well as linear correlation (slope) measured between the major parameters. 
 
-The four Leaflet Heatmaps show a 
+The four Leaflet Heatmaps show a visual comparison of cost, weather, health and happiness across the United States.
 
 ![Leaflet](templates/Leaflet.png)
 
