@@ -4,9 +4,9 @@
 
 ![Boise](templates/Boise.jpg)
 
-In this project, we analyzed the best places to live in the US based on numerous Wallethub rankings. The key factors examined were: Cost, Weather, Parks vs. Happiness, Health, Community.
+In this project, we analyzed the best places to live in the US based on numerous Wallethub rankings. The key factors examined were: Cost, Weather, Parks vs. Happiness, Health, Community. This app uses Python for app rendering and data wrangling, along with HTML and Javascript for the visualization. Data was stored and retrieved from MongoDB.
 
-The data is presented visually and tabularly.
+The data is presented visually and tabularly. The tabular data shows the raw ranking data from Wallethub as well as linear correlation (slope) measured between the major parameters. 
 
 The four Leaflet Heatmaps show a 
 
